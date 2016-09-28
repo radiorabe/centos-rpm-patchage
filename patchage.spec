@@ -13,6 +13,7 @@ BuildRequires: jack-audio-connection-kit-dbus
 BuildRequires: gtkmm24-devel
 BuildRequires: dbus-glib-devel
 BuildRequires: ganv-devel
+BuildRequires: boost-devel
 
 %description
 Patchage is a modular patch bay for Jack and ALSA based audio/MIDI systems.
